@@ -1,0 +1,14 @@
+{
+  "name": "express-blog-intro",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Serena Michetti",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node blog.js",
+    "watch": "node --watch blog.js"
+  }
+}
